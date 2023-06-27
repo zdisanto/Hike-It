@@ -1,4 +1,9 @@
 # Hike It
+
+<div align="center">
+  <img align="center" src="https://github.com/zdisanto/Hike-It/assets/70993217/30d215cf-fa17-4a26-958c-047c579acde8" width="30%"/> <img align="center" src="https://github.com/zdisanto/Hike-It/assets/70993217/ed168bc3-f1ea-4533-86fc-6ad89955c4e6" width="30%"/> 
+</div>
+
 ## Overview
 
 Hike It is a progressive web app that helps outdoor enthusiasts to discover and explore the National Parks in the United States. It offers useful information and resources about the parks. Whether you're an experienced hiker or a beginner, a student or a retiree, or even someone interested in a career or volunteering opportunities, Hike It is a comprehensive guide that can assist you in navigating the process. It makes a perfect companion to enhance your hiking adventures.
