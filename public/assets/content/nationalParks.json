@@ -1,0 +1,254 @@
+[
+    {
+        "state": "Alaska",
+        "name": "Denali National Park", 
+        "year": "February 26, 1917",
+        "area": "7,408 mi²",
+        "description": "Denali National Park and Preserve encompasses 6 million acres of Alaska’s interior wilderness. Its centerpiece is 20,310-ft.-high Denali (fka Mount McKinley), North America’s tallest peak. With terrain of tundra, spruce forest and glaciers, the park is home to wildlife including grizzly bears, wolves, moose, caribou and Dall sheep. Popular activities in summer include biking, backpacking, hiking and mountaineering.",
+        "imgURL": "https://images.pexels.com/photos/6678515/pexels-photo-6678515.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",    
+        "map": "https://www.nps.gov/dena/planyourvisit/images/Park-Road-Map_5.jpg"
+    },
+    {
+        "state": "Arizona",
+        "name": "Grand Canyon National Park", 
+        "year": "February 26, 1919",
+        "area": "1,902 mi²",
+        "description": "Grand Canyon National Park, in Arizona, is home to much of the immense Grand Canyon, with its layered bands of red rock revealing millions of years of geological history. Viewpoints include Mather Point, Yavapai Observation Station and architect Mary Colter’s Lookout Studio and her Desert View Watchtower. Lipan Point, with wide views of the canyon and Colorado River, is a popular, especially at sunrise and sunset.",
+        "imgURL": "https://images.pexels.com/photos/2882603/pexels-photo-2882603.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",    
+        "map": "https://www.nps.gov/grca/planyourvisit/images/desert-view-drive-map-covid-open-1200px-g.jpg"
+    },
+    {
+        "state": "California",
+        "name": "Yosemite National Park", 
+        "year": "October 1, 1890",
+        "area": "1,169 mi²",
+        "description": "Yosemite National Park is in California’s Sierra Nevada mountains. It’s famed for its giant, ancient sequoia trees, and for Tunnel View, the iconic vista of towering Bridalveil Fall and the granite cliffs of El Capitan and Half Dome. In Yosemite Village are shops, restaurants, lodging, the Yosemite Museum and the Ansel Adams Gallery, with prints of the photographer’s renowned black-and-white landscapes of the area.",
+        "imgURL": "https://images.pexels.com/photos/640908/pexels-photo-640908.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",    
+        "map": "https://www.nps.gov/yose/planyourvisit/upload/campgroundmap2013.jpg" 
+    },
+    {
+        "state": "Colorado",
+        "name": "Rocky Mountain National Park", 
+        "year": "January 26, 1915",
+        "area": "1,074.28 km²",
+        "description": "Rocky Mountain National Park in northern Colorado spans the Continental Divide and encompasses protected mountains, forests and alpine tundra. It's known for the Trail Ridge Road and the Old Fall River Road, drives that pass aspen trees and rivers. The Keyhole Route, a climb crossing vertical rock faces, leads up Longs Peak, the park’s tallest mountain. A trail surrounding Bear Lake offers views of the peaks.",
+        "imgURL": "https://i0.wp.com/www.hachettebookgroup.com/wp-content/uploads/2020/04/RMNP_BearLake_BrendaDenmark-DT.jpg?resize=1024%2C655&ssl=1",    
+        "map": "https://www.nps.gov/romo/planyourvisit/upload/ROMOmap1_small_2022.jpg" 
+    },
+    {
+        "state": "Florida",
+        "name": "Everglades National Park", 
+        "year": "December 6, 1947",
+        "area": "2,357 mi²",
+        "description": "Everglades National Park is a 1.5-million-acre wetlands preserve on the southern tip of the U.S. state of Florida. Often compared to a grassy, slow-moving river, the Everglades is made up of coastal mangroves, sawgrass marshes and pine flatwoods that are home to hundreds of animal species. Among the Everglades' abundant wildlife are the endangered leatherback turtle, Florida panther and West Indian manatee.",
+        "imgURL": "https://img.budgettravel.com/everglades-national-park/_1200x630_crop_center-center_82_none/Everglades-National-Park-at-sunset-Florida-USA-1216404158.jpg?mtime=1637002985",    
+        "map": "https://mapas.owje.com/img/Mapa-de-los-Ecosistemas-del-Parque-Nacional-los-Everglades-Florida-Estados-Unidos-7631.jpg" 
+    },
+    {
+        "state": "Hawaii",
+        "name": "Haleakala National Park", 
+        "year": "July 1, 1961",
+        "area": "134.62 km²",
+        "description": "Haleakalā National Park is on the Hawaiian island of Maui. It’s home to the dormant Haleakalā Volcano and endangered Hawaiian geese. The Leleiwi and Kalahaku overlooks on the steep Crater Road have views across the West Maui Mountains. Rugged trails in the Summit District pass cinder cones and lava flows. In the coastal area of Kīpahulu are the Pools of Ohe’o, freshwater pools and waterfalls set amid bamboo forest.",
+        "imgURL": "https://media.mybnbwebsite.com/11934/Haleakala_National_Park.jpg",    
+        "map": "https://www.nps.gov/hale/planyourvisit/images/2017-HALEAKALA-MAP-FRONT-FINAL_diacriticals.jpg" 
+    },
+    {
+        "state": "Idaho / Montana / Wyoming",
+        "name": "Yellowstone National Park", 
+        "year": "March 1, 1872",
+        "area": "3,471 mi²",
+        "description": "Yellowstone National Park is a nearly 3,500-sq.-mile wilderness recreation area atop a volcanic hot spot. Mostly in Wyoming, the park spreads into parts of Montana and Idaho too. Yellowstone features dramatic canyons, alpine rivers, lush forests, hot springs and gushing geysers, including its most famous, Old Faithful. It's also home to hundreds of animal species, including bears, wolves, bison, elk and antelope.",
+        "imgURL": "https://www.yellowstonepark.com/wp-content/uploads/2020/01/YS-Grand-Canyon-Lower-Falls-North-Overlook_Adobe_2400.jpg",    
+        "map": "https://heulys.com/wp-content/uploads/Carte_Yellowstone_National_Park.jpg" 
+    },
+    {
+        "state": "Kentucky",
+        "name": "Mammoth Cave National Park", 
+        "year": "July 1, 1941",
+        "area": "213.8 km²",
+        "description": "Mammoth Cave National Park is an American national park in west-central Kentucky, encompassing portions of Mammoth Cave, the longest cave system known in the world.",
+        "imgURL": "https://res.cloudinary.com/miles-extranet-dev/image/upload/v1584492906/Kentucky/account_photos/662/broadway_toward_rotunda_copy.jpg",    
+        "map": "http://npmaps.com/wp-content/uploads/mammoth-cave-map.jpg" 
+    },
+    {
+        "state": "Indiana",
+        "name": "Indiana Dunes National Park", 
+        "year": "February 15, 2019",
+        "area": "23.54 mi²",
+        "description": "Indiana Dunes National Park is a United States national park located in northwestern Indiana managed by the National Park Service. It was authorized by Congress in 1966 as the Indiana Dunes National Lakeshore and was redesignated as the nation's 61st national park on February 15, 2019.",
+        "imgURL": "https://media.cntraveler.com/photos/5c6c25735ac5fd121f4375a1/master/pass/Indiana-Dunes-Nat'l-Park_A7DC44.jpg",    
+        "map": "https://www.nps.gov/indu/planyourvisit/images/Trail-Map.jpg" 
+    },
+    {
+        "state": "Maine",
+        "name": "Acadia National Park", 
+        "year": "February 26, 1919",
+        "area": "198.60 km²",
+        "description": "Acadia National Park is a 47,000-acre Atlantic coast recreation area primarily on Maine's Mount Desert Island. Its landscape is marked by woodland, rocky beaches and glacier-scoured granite peaks such as Cadillac Mountain, the highest point on the United States’ East Coast. Among the wildlife are moose, bear, whales and seabirds. The bayside town of Bar Harbor, with restaurants and shops, is a popular gateway.",
+        "imgURL": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/27340e3f-c735-4ff2-a36d-58bb4b6fcdbc-vtm701882dd5eb7c2a3b.jpg",    
+        "map": "https://www.nps.gov/acad/planyourvisit/images/ACADmap1-1.jpg" 
+    },
+    {
+        "state": "Michigan",
+        "name": "Isle Royale National Park", 
+        "year": "April 3, 1940",
+        "area": "893 mi²",
+        "description": "Isle Royale National Park is a remote island cluster in Lake Superior, near Michigan’s border with Canada. It’s a car-free wilderness of forests, lakes and waterways, where moose and wolves roam. The Greenstone Ridge Trail links the Windigo Harbor in the west and Rock Harbor in the east. The 19th-century Rock Harbor Lighthouse has a small museum. Dive sites in the lake include several shipwrecks.",
+        "imgURL": "https://www.treehugger.com/thmb/JkylrUJ7fyp1stIIb3lmsKXKQe4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/sunrise-at-rock-harbor-534063053-25adc0013bb44667891a015cc4ae4890.jpg",    
+        "map": "http://npmaps.com/wp-content/uploads/isle-royale-dive-map.jpg" 
+    },
+    {
+        "state": "Minnesota",
+        "name": "Voyageurs National Park", 
+        "year": "April 8, 1975",
+        "area": "883 km²",
+        "description": "Voyageurs National Park is in northern Minnesota, near the Canadian border. It covers a vast area and is known for its forests, waterways and huge, island-dotted Rainy, Kabetogama and Namakan lakes. The Ellsworth Rock Gardens, created by artist Jack Ellsworth, are a series of abstract sculptures on a terraced outcrop. The remote Kettle Falls area has a dam and a red-roofed hotel, both from the early 20th century.",
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Voyageurs_National_Park.jpg",    
+        "map": "https://www.nps.gov/voya/planyourvisit/images/VNPareastatemap_1.png" 
+    },
+    {
+        "state": "Missouri",
+        "name": "Gateway Arch National Park", 
+        "year": "February 22, 2018",
+        "area": "91 acres",
+        "description": "Gateway Arch National Park is an American national park located in St. Louis, Missouri, near the starting point of the Lewis and Clark Expedition.",
+        "imgURL": "https://www.nps.gov/jeff/getinvolved/images/Arch-Reflection.jpg?maxwidth=650&autorotate=false",    
+        "map": "https://www.nps.gov/jeff/planyourvisit/images/parkingmapjuly2021_960x768.png" 
+    },
+    {
+        "state": "Montana",
+        "name": "Glacier National Park", 
+        "year": "May 11, 1910",
+        "area": "4,100.77 km²",
+        "description": "Glacier National Park is a 1,583-sq.-mi. wilderness area in Montana's Rocky Mountains, with glacier-carved peaks and valleys running to the Canadian border. It's crossed by the mountainous Going-to-the-Sun Road. Among more than 700 miles of hiking trails, it has a route to photogenic Hidden Lake. Other activities include backpacking, cycling and camping. Diverse wildlife ranges from mountain goats to grizzly bears.",
+        "imgURL": "https://www.tripsavvy.com/thmb/i2Sc2-Xk3jDOhjdCA3eQd2XO6KA=/2700x1800/filters:no_upscale():max_bytes(150000):strip_icc()/IMG_7115-e21fc727cf734a2fb38de800930605b3.jpg",    
+        "map": "http://www.hikinginglacier.com/glacier_photos/glacier-national-park-map.jpg" 
+    },
+    {
+        "state": "Nevada / California",
+        "name": "Death Valley National Park", 
+        "year": "October 31, 1994",
+        "area": "5,270 mi²",
+        "description": "Death Valley National Park straddles eastern California and Nevada. It’s known for Titus Canyon, with a ghost town and colorful rocks, and Badwater Basin’s salt flats, North America's lowest point. Above, Telescope Peak Trail weaves past pine trees. North of the spiky salt mounds known as the Devil’s Golf Course, rattlesnakes live in Mesquite Flat Sand Dunes.",
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Sand_Dunes_in_Death_Valley_National_Park.jpg",    
+        "map": "https://wikitravel.org/upload/en/thumb/b/b9/Death-valley-Daymap.jpg/400px-Death-valley-Daymap.jpg" 
+    },
+    {
+        "state": "New Mexico",
+        "name": "White Sands National Park", 
+        "year": "December 20, 2019",
+        "area": "227.8 mi²",
+        "description": "White Sands National Park is an American national park located in the state of New Mexico and completely surrounded by the White Sands Missile Range. The park covers 145,762 acres in the Tularosa Basin, including the southern 41% of a 275 sq mi field of white sand dunes composed of gypsum crystals.",
+        "imgURL": "https://images.unsplash.com/photo-1628328052245-6a16b95499ef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80",    
+        "map": "https://ontheworldmap.com/usa/national-park/white-sands/white-sands-visitor-map.jpg" 
+    },
+    {
+        "state": "North Dakota",
+        "name": "Theodore Roosevelt National Park", 
+        "year": "November 10, 1978",
+        "area": "285.08 km²",
+        "description": "Theodore Roosevelt National Park lies in western North Dakota, where the Great Plains meet the rugged Badlands. A habitat for bison, elk and prairie dogs, the sprawling park has 3 sections linked by the Little Missouri River. The park is known for the South Unit’s colorful Painted Canyon and the Maltese Cross Cabin, where President Roosevelt once lived. The Scenic Loop Drive winds past several overlooks and trails.",
+        "imgURL": "https://cdn.britannica.com/85/115485-050-91FE0364/Little-Missouri-River-Theodore-Roosevelt-National-Park.jpg",    
+        "map": "https://ontheworldmap.com/usa/national-park/theodore-roosevelt/large-detailed-map-of-theodore-roosevelt.jpg" 
+    },
+    {
+        "state": "North Carolina / Tennessee",
+        "name": "Great Smoky Mountains National Park", 
+        "year": "June 15, 1934",
+        "area": "2,114.15 km²",
+        "description": "Great Smoky Mountains National Park straddles the border between North Carolina and Tennessee. The sprawling landscape encompasses lush forests and an abundance of wildflowers that bloom year-round. Streams, rivers and waterfalls appear along hiking routes that include a segment of the Appalachian Trail. An observation tower tops Clingmans Dome, the highest peak, offering scenic views of the mist-covered mountains.",
+        "imgURL": "https://i.natgeofe.com/n/65a0930b-9efd-40c4-8b6b-fa7fd4f05140/92508.jpg",    
+        "map": "https://www.mysmokymountainpark.com/wp-content/uploads/2020/12/sm-regionmap-featured_nps_700-1.jpg" 
+    },
+    {
+        "state": "Ohio",
+        "name": "Cuyahoga Valley National Park", 
+        "year": "December 27, 1974",
+        "area": "50.89 mi²",
+        "description": "Cuyahoga Valley National Park lies along the Cuyahoga River between the Ohio cities of Cleveland and Akron. The Ohio and Erie Canal Towpath Trail is a restored section of the canal's original towpath. In the park’s north, the Canal Exploration Center details the 19th-century waterway’s history. Towering Brandywine Falls is one of several waterfalls. The Cuyahoga Valley Scenic Railroad runs through the park. ",
+        "imgURL": "https://www.visittheusa.com/sites/default/files/styles/hero_l/public/images/hero_media_image/2016-10/Cuyahoga.jpg?h=d4a7e383&itok=1JSUzbRg",    
+        "map": "http://npmaps.com/wp-content/uploads/cuyahoga-attractions-map.gif" 
+    },
+    {
+        "state": "Oregon",
+        "name": "Crater Lake National Park", 
+        "year": "May 22, 1902",
+        "area": "741.48 km²",
+        "description": "Crater Lake National Park is in the Cascade Mountains of southern Oregon. It’s known for its namesake Crater Lake, formed by the now-collapsed volcano, Mount Mazama. Wizard Island is a cinder cone near the western edge of the lake. The Rim Drive, a road surrounding the lake, offers views of the park’s volcanic formations. The park’s numerous trails include Sun Notch, with views of the Phantom Ship, a small island. ",
+        "imgURL": "https://www.travelcraterlake.com/media/823248/crater-lake-under-painted-sky-2434.jpg?anchor=center&mode=crop&width=770&height=346&rnd=132895641180000000",    
+        "map": "https://www.nps.gov/crla/planyourvisit/images/Crater-Inset-Map-winter-version-for-Website-with-red-roads-10-314-01.jpg" 
+    },
+    {
+        "state": "South Carolina",
+        "name": "Congaree National Park", 
+        "year": "November 10, 2003",
+        "area": "108.021 km²",
+        "description": "Congaree National Park is a 26,692.6-acre American national park in central South Carolina, 18 miles southeast of the state capital, Columbia. The park preserves the largest tract of old growth bottomland hardwood forest left in the United States.",
+        "imgURL": "https://morethanjustparks.com/wp-content/uploads/2019/09/congaree.jpg",    
+        "map": "http://npmaps.com/wp-content/uploads/congaree-trail-map.jpg" 
+    },
+    {
+        "state": "South Dakota",
+        "name": "Badlands National Park", 
+        "year": "November 10, 1978",
+        "area": "982.40 km²",
+        "description": "Badlands National Park is in South Dakota. Its dramatic landscapes span layered rock formations, steep canyons and towering spires. Bison, bighorn sheep and prairie dogs inhabit its sprawling grasslands. The Badlands Loop Road (Highway 240) winds past scenic lookouts. Several trails begin near the Ben Reifel Visitor Center. The Fossil Exhibit Trail is a boardwalk with displays on fossils uncovered in the park. ",
+        "imgURL": "https://media.istockphoto.com/id/1225028047/photo/beautiful-landscapes-in-badlands-national-park-south-dakota-usa.jpg?s=612x612&w=0&k=20&c=ubfKMIHFOFsOhknxu9q_JdsmxmjMbw7fkE2DzL08i9I=",    
+        "map": "https://www.parkrangerjohn.com/wp-content/uploads/2020/06/Badlands-Hiking-Trails-Map.jpg" 
+    },
+    {
+        "state": "Texas",
+        "name": "Guadalupe Mountains National Park", 
+        "year": "September 30, 1972",
+        "area": "349.51 km²",
+        "description": "The Guadalupe Mountains are a mountain range located in West Texas and southeastern New Mexico. The range includes the highest summit in Texas, Guadalupe Peak, 8,751 ft, and the `signature peak` of West Texas, El Capitan, both of which are located within Guadalupe Mountains National Park.",
+        "imgURL": "https://www.tripsavvy.com/thmb/W7Pq8nQ6lEp_iXMAmRDJyUQ8WXY=/2121x1414/filters:no_upscale():max_bytes(150000):strip_icc()/el-capitan-of-guadalupe-mountains-national-park-1124355613-a9948372927f411da39d805610f6fe4c.jpg",    
+        "map": "http://npmaps.com/wp-content/uploads/guadalupe-peak-trail.jpg" 
+    },
+    {
+        "state": "Utah",
+        "name": "Zion National Park", 
+        "year": "November 19, 1919",
+        "area": "229.1 mi²",
+        "description": "Zion National Park is a southwest Utah nature preserve distinguished by Zion Canyon’s steep red cliffs. Zion Canyon Scenic Drive cuts through its main section, leading to forest trails along the Virgin River. The river flows to the Emerald Pools, which have waterfalls and a hanging garden. Also along the river, partly through deep chasms, is Zion Narrows wading hike.",
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Angels_Landing.jpg/1200px-Angels_Landing.jpg",    
+        "map": "https://www.nps.gov/zion/planyourvisit/images/Zion-Area-Map-Website.jpg" 
+    },
+    {
+        "state": "Virginia",
+        "name": "Shenandoah National Park", 
+        "year": "December 26, 1935",
+        "area": "311.2 mi²",
+        "description": "Shenandoah National Park extends along the Blue Ridge Mountains in the U.S. state of Virginia. The Skyline Drive runs its length, and a vast network of trails includes a section of the long-distance Appalachian Trail. Mostly forested, the park features wetlands, waterfalls and rocky peaks like Hawksbill and Old Rag mountains. Shenandoah is home to many bird species, plus deer, squirrels and the elusive black bear.",
+        "imgURL": "https://www.pinkcaddytravelogue.com/wp-content/uploads/2018/03/isaac-wendland-438676-unsplash-e1537208108747.jpg",    
+        "map": "http://npmaps.com/wp-content/uploads/shenandoah-skyland-map.jpg" 
+    },
+    {
+        "state": "Washington",
+        "name": "Olympic National Park", 
+        "year": "June 29, 1938",
+        "area": "1,442 mi²",
+        "description": "Olympic National Park is on Washington's Olympic Peninsula in the Pacific Northwest. The park sprawls across several different ecosystems, from the dramatic peaks of the Olympic Mountains to old-growth forests. The summit of glacier-clad Mt. Olympus is popular with climbers, and hiking and backpacking trails cut through the park's rainforests and along its Pacific coastline.",
+        "imgURL": "https://s27363.pcdn.co/wp-content/uploads/2021/02/Hurricane-Ridge-Olympic-NP.jpg.optimal.jpg",    
+        "map": "https://www.fs.usda.gov/Internet/FSE_MEDIA/fsbdev3_049288.gif" 
+    },
+    {
+        "state": "West Virginia",
+        "name": "New River Gorge National Park", 
+        "year": "November 10, 1978",
+        "area": "294.64 km²",
+        "description": "The New River Gorge National Park and Preserve is a unit of the United States National Park Service designed to protect and maintain the New River Gorge in southern West Virginia in the Appalachian Mountains.",
+        "imgURL": "https://assets.vogue.com/photos/60342bd00a6b7990c15bf0c4/16:9/w_3792,h_2133,c_limit/EJ1K0R.jpg",    
+        "map": "https://www.nps.gov/neri/planyourvisit/images/Simplified-hiking-areas-map.jpg" 
+    },
+    {
+        "state": "Wyoming",
+        "name": "Grand Teton National Park", 
+        "year": "February 26, 1929",
+        "area": "4,199 m",
+        "description": "Grand Teton National Park is in the northwest of the U.S state of Wyoming. It encompasses the Teton mountain range, the 4,000-meter Grand Teton peak, and the valley known as Jackson Hole. It’s a popular destination in summer for mountaineering, hiking, backcountry camping and fishing, linked to nearby Yellowstone National Park by the John D. Rockefeller, Jr. Memorial Parkway.",
+        "imgURL": "https://jacksonholewildlifesafaris.com/wp-content/uploads/2021/06/2880x1620-featured-image-grand-tetons-scaled.jpg",    
+        "map": "https://www.nps.gov/grte/learn/photosmultimedia/images/audio_description_location_map.jpg?maxwidth=1200&maxheight=1200&autorotate=false" 
+    }
+]

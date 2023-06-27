@@ -1,0 +1,7 @@
+{
+  "name": "homework11",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
